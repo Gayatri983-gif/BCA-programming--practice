@@ -1,12 +1,21 @@
-# BCA-programming--practice
- This repository conatins my practice programs and lab  assignments from my first year of BCA. I am documenting my progress in c and Python  here.
+# Python Learning Journey 🐍
 
- # tech stack 
- - **Python**
- ## 📁 Projects 
- - "hello.py : My first Python script!
+Welcome to my Python repository! This is where I document my progress, practice exercises, and projects as a BCA student.
 
- - ## Learning Goal
- -  I am currently seeking an internship  to futher develop my skills in software development and apply what I have learned in my collage labs.
+## 🚀 Current Focus
+- Mastering Python syntax and logic.
+- Building foundational software development skills.
+- Actively seeking an internship to apply these skills in a real-world environment.
 
- -  **created by Gayari**
+## 📁 What’s inside
+- `hello.py`: My introductory script.
+- *More projects coming soon as I progress through my coursework!*
+
+## 📈 Goals
+My goal is to transition from basic scripting to building functional applications. I am currently learning about:
+- [ ] Variables & Data Types
+- [ ] Control Flow (If/Else, Loops)
+- [ ] Functions
+
+---
+*Maintained by Gayatri *
