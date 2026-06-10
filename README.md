@@ -13,7 +13,7 @@ Welcome to my Python repository! This is where I document my progress, practice 
 
 ## 📈 Goals
 My goal is to transition from basic scripting to building functional applications. I am currently learning about:
-- [ ] Variables & Data Types
+- [x] Variables & Data Types
 - [ ] Control Flow (If/Else, Loops)
 - [ ] Functions
 
